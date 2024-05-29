@@ -46,6 +46,10 @@ Before running the service, make sure the points below are completed:
     go run cmd/main.go
     ```
 
+5. Testing Using Postman
+
+    - File Already upload in this repository
+
 ## Configuration
 
 Update the env file `.env` and adjust it to the configuration on each computer
